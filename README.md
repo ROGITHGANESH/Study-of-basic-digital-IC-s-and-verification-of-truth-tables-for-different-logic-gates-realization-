@@ -73,6 +73,7 @@ nand (y5,a,b);
 nor (y6,a,b);
 xnor (y7,a,b);
 endmodule
+```
 */
 Logic symbol & Truthtable
 ![image](https://github.com/ROGITHGANESH/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/152588322/822829a4-d888-49a1-a464-91b37c0cdad8)
